@@ -1,3 +1,1 @@
-# bookbot
-Python Bookbot
-test
+BookBot is my first [Boot.dev](https://www.yunaayumii.dev) project!
